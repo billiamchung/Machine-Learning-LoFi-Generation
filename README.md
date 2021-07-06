@@ -1,1 +1,1 @@
-# Machine-Learning-Music-Generation
+# Machine Learning: Music Generation
